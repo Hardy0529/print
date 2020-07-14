@@ -1,4 +1,12 @@
-var s = skrollr.init();
+
+
+
+
+	// stellar plugin initialize
+	if(screen.width > 768){
+		var s = skrollr.init();
+	}
+
 
 
 $(window).scroll(function(evt){
