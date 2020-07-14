@@ -3,7 +3,7 @@
 
 
 	// stellar plugin initialize
-	if(screen.width > 768){
+	if(screen.width > 991){
 		var s = skrollr.init();
 	}
 
